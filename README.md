@@ -1,0 +1,1 @@
+# stock-exchange-data-nya
